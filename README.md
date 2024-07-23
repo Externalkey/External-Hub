@@ -14,6 +14,11 @@ Welcome to my Lua Project **External Hib** This Script hub provides scripts for 
 - **Adopt Me**
 - **And More...**
 
+## Disclaimer 
+-**liablity**:I the Developer, and Owner of this LUA project / Script Hub is not liable nor will take responsablity if roblox takes action against your accout or if any game bans / punishes you.  
+-**License**: This project is licensed under the GNU General Public License v3.0 (GPL-3.0). The GPL-3.0 license allows you to freely use, modify, and distribute this software, provided that any derivative works also comply with the same license terms.This software is provided “as-is,” without any warranties or guarantees. The authors are not responsible for any issues, including but not limited to, account bans or other consequences resulting from the use of this software.
+
+
 ## Features
 
 - **Easy to use**: Our script hub is very simple with you being able to get any script by scrolling down our tabs and finding your favourite game with the best scripts provided   
