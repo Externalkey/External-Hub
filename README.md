@@ -27,4 +27,4 @@ Welcome to my Lua Project **External Hib** This Script hub provides scripts for 
 
 ## Script:
 - **Get our Script Now**:
-  ```--Script is still in progress```
+  ```loadstring(game:HttpGet("https://raw.githubusercontent.com/Externalkey/External-Hub/main/V1/Beta", true))()```
